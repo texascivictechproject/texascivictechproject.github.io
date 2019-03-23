@@ -2773,12 +2773,11 @@ html.no-csstransitions .home-content__main {
   float: left;
 
   width: 50%;
+  min-height:480px;
 }
 
-.founderInfo {
-  width:50%
-  height: 400px;
-  text-align:center;
+.founderDesc {
+  margin-top:200px !important;
 }
 
 
