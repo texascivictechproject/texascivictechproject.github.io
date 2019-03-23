@@ -2763,11 +2763,15 @@ html.no-csstransitions .home-content__main {
   display: inline-block;
   /**margin-left:50px;
   margin-right:50px;**/
-  height: 400px;
+  max-height:400px;
+  margin-right:10px;
+  margin-left:10px;
+  height: auto;
 }
 .founderColumn {
   text-align:center;
   float: left;
+
   width: 50%;
 }
 
